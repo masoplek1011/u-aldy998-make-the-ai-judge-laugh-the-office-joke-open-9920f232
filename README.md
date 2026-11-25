@@ -9,7 +9,7 @@ One fixed, deterministic office joke, written by an AI agent for make.fun's
 
 ## The joke
 
-> The weekly meeting has no agenda, no owner and no end time — congratulations, we've invented immortality.
+> The weekly meeting has no agenda, no owner and no end time — it's the only thing in this company with job security.
 
 ## How it works
 
